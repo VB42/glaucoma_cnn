@@ -1,0 +1,5 @@
+keras
+matplotlib
+keras-vis
+python-dotenv
+pillow
