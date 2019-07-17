@@ -2,3 +2,6 @@
 rim-flow-data
 rim-flow-datav2
 .jpg
+.DS_Store
+.idea
+__pycache__

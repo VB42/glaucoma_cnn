@@ -25,3 +25,8 @@ The visualization was done in the file cnnvisualizer.py. It generated saliency m
 
 
 *Note that these images were from the 2nd layer and are respectively the G-1-L.jpg image and the N-1-L.jpg image from the training phase.*
+
+## Install
+Ensure you a version of Python in the 2.7-3.6 range installed, then run:
+
+    pip install -r requirements.txt
